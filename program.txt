@@ -1,0 +1,5 @@
+﻿scan aa ;
+for i = to 10
+{
+	print i;
+}
